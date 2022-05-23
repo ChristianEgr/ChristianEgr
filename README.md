@@ -2,10 +2,10 @@
 
 <details>
     <summary><b>👀About Me</b></summary><br/>
-    -I’m interested in Engineering , Coding & StartUps 
+    I’m interested in Engineering , Coding & StartUps 
 </details><details>
     <summary><b>📫 Contact me</b></summary><br/>
-   -email: chriseuaggelou@outlook.com
+   email: chriseuaggelou@outlook.com
 </details>
 <!---
 ChristianEgr/ChristianEgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
