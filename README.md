@@ -4,7 +4,7 @@
     <summary><b>👀 About Me</b></summary><br/>
     I’m interested in Engineering , Coding & StartUps 
 </details><details>
-    <summary><b>📫 Contact me</b></summary><br/>
+    <summary><b>📫 Contact Info</b></summary><br/>
    email: chriseuaggelou@outlook.com
 </details>
 <!---
