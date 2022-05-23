@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @ChristianEgr
 
 <details>
-    <summary><b>✨About Me</b></summary><br/>
-    - 👀 I’m interested in Engineering , Coding & StartUps 
-- 📫 If you want to reach me try to send me an email at : chriseuaggelou@outlook.com
+    <summary><b>👀About Me</b></summary><br/>
+    -I’m interested in Engineering , Coding & StartUps 
 </details><details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    Sample text
+    <summary><b>📫 Contact me</b></summary><br/>
+   -email: chriseuaggelou@outlook.com
 </details>
 <!---
 ChristianEgr/ChristianEgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
