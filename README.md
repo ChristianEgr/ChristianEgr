@@ -1,7 +1,7 @@
 <H1>👋 Hi, I’m @ChristianEgr</H1>
 
 <details>
-    <summary><b>👀About Me</b></summary><br/>
+    <summary><b>👀 About Me</b></summary><br/>
     I’m interested in Engineering , Coding & StartUps 
 </details><details>
     <summary><b>📫 Contact me</b></summary><br/>
